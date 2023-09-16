@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FilmRecyclerView</string>
+    <string name="addToCard">Add to Card</string>
+</resources>
